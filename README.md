@@ -1,2 +1,2 @@
 # public
-fork or download as you wish
+Fork and download as you wish
